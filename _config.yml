@@ -36,8 +36,7 @@ title: Beautiful Jekyll
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  About Me: "aboutme"
-  Contact: "contact"
+  About Me: "howtouse"
   
 # --- Footer options --- #
 
