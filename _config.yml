@@ -36,8 +36,8 @@ title: Beautiful Jekyll
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Random Link: "nowhere"
-  Another Page: "nowhere"
+  Random Link: ""
+  Another Page: ""
   
 # --- Footer options --- #
 
