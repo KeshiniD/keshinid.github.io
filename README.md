@@ -1,6 +1,3 @@
-TODO write instructions
+# Beautiful Jekyll source code
 
-
-known bug (problem on GitHub Pages part) - if you have a project page and want a custom 404 page, you must use a custom domain.  See https://help.github.com/articles/custom-404-pages/.  This means that if you have a regular User Page you can use the 404 page from this theme, but if it's a website for a specific repository, the 404 page will not be used.
-
-can also give googlefonts
+This is the source code of Beautiful Jekyll that is responsible for generating [the demo website for this theme](http://deanattali.com/beautiful-jekyll).  To learn how to build a similarly awesome looking website in minutes, go to the [main Beautiful Jekyll page](https://github.com/daattali/beautiful-jekyll#readme).
